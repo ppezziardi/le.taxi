@@ -59,7 +59,6 @@ a:focus {
 .navbar {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
-	
 }
 
 .navbar-brand {
@@ -80,6 +79,9 @@ a:focus {
 
 .navbar-brand img{
   height: 40px;
+}
+
+.ghost-logo img{
   opacity:0;
 }
 
@@ -119,7 +121,7 @@ a:focus {
 }
 
 .navbar-custom ul.nav ul.dropdown-menu {
-	  border-radius: 0;	
+	  border-radius: 0;
 }
 
 .navbar-custom ul.nav ul.dropdown-menu li {
